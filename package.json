@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "build:gh-pages": "vite build --base=/lab_clock/",
+    "build:gh-pages": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
